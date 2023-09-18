@@ -4,6 +4,9 @@ Brightness Function for Starlink Satellites. This function uses the assumed geom
 References:
 
 https://amostech.com/TechnicalPapers/2021/Non-Resolved-Object-Characterization/Johnson.pdf
+
 https://arxiv.org/pdf/2108.12335.pdf
+
 https://apps.dtic.mil/sti/tr/pdf/AD0785380.pdf
+
 https://arxiv.org/pdf/2305.11123.pdf
